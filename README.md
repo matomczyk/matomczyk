@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magda</h1>
+
 - 🔭 I’m currently working on [DoIt app](https://github.com/matomczyk/doit_app)
 
 - 🌱 I’m currently learning **Javascript and Docker**
